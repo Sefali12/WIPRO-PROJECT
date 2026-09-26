@@ -1,0 +1,73 @@
+14:22:04 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:06 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:07 | INFO     | pages.register_page | Registering new account for qa.rmccarty827@mailinator.com
+14:22:08 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:08 | INFO     | tests.test_login_search_pytest | Account ready: qa.rmccarty827@mailinator.com
+14:22:08 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:08 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:08 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:09 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:09 | INFO     | pages.login_page | Logging in as qa.rmccarty827@mailinator.com
+14:22:30 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_login_with_newly_registered_account_20260926_142230.png
+14:22:30 | INFO     | tests.conftest | Quitting browser
+14:22:30 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:32 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:33 | INFO     | pages.register_page | Registering new account for qa.xsingleton962@mailinator.com
+14:22:34 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:34 | INFO     | tests.test_login_search_pytest | Account ready: qa.xsingleton962@mailinator.com
+14:22:34 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:34 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:34 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:35 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:35 | INFO     | pages.login_page | Logging in as qa.xsingleton962@mailinator.com
+14:22:36 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row0__20260926_142235.png
+14:22:36 | INFO     | tests.conftest | Quitting browser
+14:22:36 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:37 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:38 | INFO     | pages.register_page | Registering new account for qa.jenny86819@mailinator.com
+14:22:40 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:40 | INFO     | tests.test_login_search_pytest | Account ready: qa.jenny86819@mailinator.com
+14:22:40 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:40 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:40 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:40 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:40 | INFO     | pages.login_page | Logging in as qa.jenny86819@mailinator.com
+14:22:41 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row1__20260926_142240.png
+14:22:41 | INFO     | tests.conftest | Quitting browser
+14:22:41 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:43 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:43 | INFO     | pages.register_page | Registering new account for qa.robert94206@mailinator.com
+14:22:45 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:45 | INFO     | tests.test_login_search_pytest | Account ready: qa.robert94206@mailinator.com
+14:22:45 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:45 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:45 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:45 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:46 | INFO     | pages.login_page | Logging in as qa.robert94206@mailinator.com
+14:22:47 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row2__20260926_142246.png
+14:22:47 | INFO     | tests.conftest | Quitting browser
+14:22:47 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:48 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:49 | INFO     | pages.register_page | Registering new account for qa.matthew83228@mailinator.com
+14:22:51 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:51 | INFO     | tests.test_login_search_pytest | Account ready: qa.matthew83228@mailinator.com
+14:22:51 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:52 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:52 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:52 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:52 | INFO     | pages.login_page | Logging in as qa.matthew83228@mailinator.com
+14:22:53 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row3__20260926_142252.png
+14:22:53 | INFO     | tests.conftest | Quitting browser
+14:22:53 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:22:54 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:22:55 | INFO     | pages.register_page | Registering new account for qa.johnburke425@mailinator.com
+14:22:57 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+14:22:57 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:58 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+14:22:58 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+14:22:58 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:22:58 | INFO     | pages.login_page | Logging in as qa.johnburke425@mailinator.com
+14:23:19 | ERROR    | tests.test_login_search_unittest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_register_and_login_20260926_142319.png
+14:23:19 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:23:22 | INFO     | pages.search_page | Searching for product: 'MacBook'
+14:23:22 | INFO     | pages.search_page | Search submitted via button click

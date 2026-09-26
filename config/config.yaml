@@ -1,0 +1,11 @@
+# -----------------------------------------------------------------------
+# Central configuration for the automation framework.
+# Change values here — never hardcode URLs / timeouts / browser in tests.
+# -----------------------------------------------------------------------
+base_url: "https://tutorialsninja.com/demo/"
+browser: "chrome"          # chrome | firefox
+headless: false            # true for CI, false for the demo recording
+implicit_wait: 10          # seconds
+explicit_wait: 15          # seconds
+window_size: "1920,1080"
+screenshot_on_failure: true

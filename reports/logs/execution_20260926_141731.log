@@ -1,0 +1,50 @@
+14:17:31 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:17:32 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:17:33 | INFO     | pages.register_page | Registering new account for qa.jonesaustin835@mailinator.com
+14:17:35 | INFO     | tests.conftest | Quitting browser
+14:17:35 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:17:36 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:17:37 | INFO     | pages.register_page | Registering new account for qa.walter59127@mailinator.com
+14:17:39 | INFO     | pages.register_page | Post-registration heading: 'Your Account Has Been Created!'
+14:17:39 | INFO     | tests.test_login_search_pytest | Account ready: qa.walter59127@mailinator.com
+14:17:39 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:17:39 | INFO     | pages.login_page | Logging in as qa.walter59127@mailinator.com
+14:18:00 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row0__20260926_141800.png
+14:18:00 | INFO     | tests.conftest | Quitting browser
+14:18:00 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:18:01 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:18:03 | INFO     | pages.register_page | Registering new account for qa.mccluremark371@mailinator.com
+14:18:06 | INFO     | pages.register_page | Post-registration heading: 'Your Account Has Been Created!'
+14:18:06 | INFO     | tests.test_login_search_pytest | Account ready: qa.mccluremark371@mailinator.com
+14:18:06 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:18:06 | INFO     | pages.login_page | Logging in as qa.mccluremark371@mailinator.com
+14:18:27 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row1__20260926_141827.png
+14:18:27 | INFO     | tests.conftest | Quitting browser
+14:18:27 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:18:28 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:18:29 | INFO     | pages.register_page | Registering new account for qa.carlsonandrea155@mailinator.com
+14:18:31 | INFO     | pages.register_page | Post-registration heading: 'Your Account Has Been Created!'
+14:18:31 | INFO     | tests.test_login_search_pytest | Account ready: qa.carlsonandrea155@mailinator.com
+14:18:31 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:18:31 | INFO     | pages.login_page | Logging in as qa.carlsonandrea155@mailinator.com
+14:18:52 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row2__20260926_141852.png
+14:18:52 | INFO     | tests.conftest | Quitting browser
+14:18:53 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:18:54 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:18:55 | INFO     | pages.register_page | Registering new account for qa.melissa64408@mailinator.com
+14:18:56 | INFO     | pages.register_page | Post-registration heading: 'Your Account Has Been Created!'
+14:18:56 | INFO     | tests.test_login_search_pytest | Account ready: qa.melissa64408@mailinator.com
+14:18:56 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:18:57 | INFO     | pages.login_page | Logging in as qa.melissa64408@mailinator.com
+14:19:18 | ERROR    | tests.conftest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_product_search_data_driven_row3__20260926_141918.png
+14:19:18 | INFO     | tests.conftest | Quitting browser
+14:19:18 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:19:20 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+14:19:21 | INFO     | pages.register_page | Registering new account for qa.brownjoshua151@mailinator.com
+14:19:22 | INFO     | pages.register_page | Post-registration heading: 'Your Account Has Been Created!'
+14:19:22 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+14:19:23 | INFO     | pages.login_page | Logging in as qa.brownjoshua151@mailinator.com
+14:19:44 | ERROR    | tests.test_login_search_unittest | Test FAILED — screenshot saved: /Users/sefali/Downloads/selenium-pom-framework/reports/screenshots/test_register_and_login_20260926_141944.png
+14:19:44 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+14:19:47 | INFO     | pages.search_page | Searching for product: 'MacBook'
+14:19:47 | INFO     | pages.search_page | Search submitted via button click

@@ -1,0 +1,79 @@
+15:33:57 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:33:58 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:33:59 | INFO     | pages.register_page | Registering new account for qa.sferguson640@mailinator.com
+15:34:00 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:00 | INFO     | tests.test_login_search_pytest | Account ready: qa.sferguson640@mailinator.com
+15:34:00 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:00 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:00 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:34:01 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:01 | INFO     | pages.login_page | Logging in as qa.sferguson640@mailinator.com
+15:34:12 | INFO     | tests.conftest | Quitting browser
+15:34:12 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:34:13 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:34:13 | INFO     | pages.register_page | Registering new account for qa.kimberlybradley193@mailinator.com
+15:34:15 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:15 | INFO     | tests.test_login_search_pytest | Account ready: qa.kimberlybradley193@mailinator.com
+15:34:15 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:16 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:16 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:34:16 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:16 | INFO     | pages.login_page | Logging in as qa.kimberlybradley193@mailinator.com
+15:34:27 | INFO     | pages.search_page | Searching for product: 'MacBook'
+15:34:27 | INFO     | pages.search_page | Search submitted via button click
+15:34:27 | INFO     | tests.test_login_search_pytest | 'MacBook' -> 3 result(s): ['MacBook', 'MacBook Air', 'MacBook Pro']
+15:34:27 | INFO     | tests.conftest | Quitting browser
+15:34:28 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:34:29 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:34:30 | INFO     | pages.register_page | Registering new account for qa.david30562@mailinator.com
+15:34:32 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:32 | INFO     | tests.test_login_search_pytest | Account ready: qa.david30562@mailinator.com
+15:34:32 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:32 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:32 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:34:32 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:32 | INFO     | pages.login_page | Logging in as qa.david30562@mailinator.com
+15:34:43 | INFO     | pages.search_page | Searching for product: 'iPhone'
+15:34:43 | INFO     | pages.search_page | Search submitted via button click
+15:34:43 | INFO     | tests.test_login_search_pytest | 'iPhone' -> 1 result(s): ['iPhone']
+15:34:43 | INFO     | tests.conftest | Quitting browser
+15:34:44 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:34:45 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:34:46 | INFO     | pages.register_page | Registering new account for qa.wilsonamanda660@mailinator.com
+15:34:47 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:47 | INFO     | tests.test_login_search_pytest | Account ready: qa.wilsonamanda660@mailinator.com
+15:34:47 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:47 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:47 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:34:48 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:48 | INFO     | pages.login_page | Logging in as qa.wilsonamanda660@mailinator.com
+15:34:49 | INFO     | pages.search_page | Searching for product: 'Samsung'
+15:34:49 | INFO     | pages.search_page | Search submitted via button click
+15:34:49 | INFO     | tests.test_login_search_pytest | 'Samsung' -> 2 result(s): ['Samsung SyncMaster 941BW', 'Samsung Galaxy Tab 10.1']
+15:34:49 | INFO     | tests.conftest | Quitting browser
+15:34:49 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:34:51 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:34:52 | INFO     | pages.register_page | Registering new account for qa.ruizraymond984@mailinator.com
+15:34:53 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:53 | INFO     | tests.test_login_search_pytest | Account ready: qa.ruizraymond984@mailinator.com
+15:34:53 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:53 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:53 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:34:54 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:54 | INFO     | pages.login_page | Logging in as qa.ruizraymond984@mailinator.com
+15:34:55 | INFO     | pages.search_page | Searching for product: 'Canon'
+15:34:55 | INFO     | pages.search_page | Search submitted via button click
+15:34:55 | INFO     | tests.test_login_search_pytest | 'Canon' -> 1 result(s): ['Canon EOS 5D']
+15:34:55 | INFO     | tests.conftest | Quitting browser
+15:34:55 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:34:57 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:34:57 | INFO     | pages.register_page | Registering new account for qa.elizabeth63941@mailinator.com
+15:34:59 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:34:59 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:34:59 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:34:59 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:35:00 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:35:00 | INFO     | pages.login_page | Logging in as qa.elizabeth63941@mailinator.com
+15:35:24 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:35:26 | INFO     | pages.search_page | Searching for product: 'MacBook'
+15:35:26 | INFO     | pages.search_page | Search submitted via button click

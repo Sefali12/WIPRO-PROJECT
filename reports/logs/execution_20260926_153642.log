@@ -1,0 +1,12 @@
+15:36:42 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:36:43 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/register
+15:36:44 | INFO     | pages.register_page | Registering new account for qa.mooredavid760@mailinator.com
+15:36:46 | INFO     | pages.register_page | Registration confirmed via URL: https://tutorialsninja.com/demo/index.php?route=account/success
+15:36:46 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:36:46 | INFO     | pages.login_page | Already logged in from registration — logging out for a clean login test
+15:36:46 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/logout
+15:36:46 | INFO     | pages.base_page | Navigating to https://tutorialsninja.com/demo/index.php?route=account/login
+15:36:46 | INFO     | pages.login_page | Logging in as qa.mooredavid760@mailinator.com
+15:37:18 | INFO     | utils.driver_factory | Launching browser='chrome' headless=False
+15:37:20 | INFO     | pages.search_page | Searching for product: 'MacBook'
+15:37:21 | INFO     | pages.search_page | Search submitted via button click
